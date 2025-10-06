@@ -7,7 +7,6 @@ import androidx.activity.enableEdgeToEdge
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.PaddingValues
-import androidx.compose.foundation.layout.R
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
@@ -32,9 +31,10 @@ import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.font.FontStyle
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
-import com.example.app_lol_salvador.string
-import com.example.app_lol_salvador.ui.theme.APP_LOL_SalvadorTheme
 import com.example.app_lol_salvador.ui.theme.AppLolTheme
+import coil.compose.AsyncImage
+import androidx.lifecycle.viewmodel.compose.viewModel
+
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -156,8 +156,8 @@ fun ChampionListScreenPreview() {
                 ),
                 imageOnLeft = true
             )
-            com.example.app_lol.ChampionCard(
-                champion = Champion(
+            ChampionCard(
+                champion = ChampionClass(
                     2,
                     R.string.vi_name,
                     R.string.vi_title,
