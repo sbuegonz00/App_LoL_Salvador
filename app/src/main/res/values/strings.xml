@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name" translatable="false">App-Lol</string>
+
+    <!-- Ziggs -->
+    <string name="ziggs_name">Ziggs</string>
+    <string name="ziggs_title">The Hexplosives Expert</string>
+    <string name="ziggs_description">With a love for big bombs and short fuses, Ziggs is a force of yordle nature. As an inventor\'s assistant in Piltover, he was bored by his predictable life and befriended a mad, blue-haired bomber named Jinx.</string>
+
+    <!-- Vi -->
+    <string name="vi_name">Vi</string>
+    <string name="vi_title">The Piltover Enforcer</string>
+    <string name="vi_description">Once a criminal from the mean streets of Zaun, Vi is a hotheaded, impulsive, and fearsome woman with only a very loose respect for authority figures. Growing up more or less alone, Vi developed finely-honed survival instincts as well as a wickedly abrasive sense of humor.</string>
+
+    <!-- Teemo -->
+    <string name="teemo_name">Teemo</string>
+    <string name="teemo_title">The Swift Scout</string>
+    <string name="teemo_description">Undaunted by even the most dangerous and threatening of obstacles, Teemo scouts the world with boundless enthusiasm and a cheerful spirit. A yordle with an unwavering sense of morality, he takes pride in following the Bandle Scout\'s Code.</string>
+
+    <!-- Taric -->
+    <string name="taric_name">Taric</string>
+    <string name="taric_title">The Shield of Valoran</string>
+    <string name="taric_description">Taric is the Aspect of the Protector, wielding incredible power as Runeterra’s guardian of life, love, and beauty. Shamed by a dereliction of duty, Taric climbed Mount Targon for redemption, only to discover a higher calling.</string>
+
+    <!-- Senna -->
+    <string name="senna_name">Senna</string>
+    <string name="senna_title">The Redeemer</string>
+    <string name="senna_description">Cursed from childhood to be haunted by the supernatural Black Mist, Senna joined a sacred order known as the Sentinels of Light, and fiercely fought back. But her husband Lucian could not save her from the cruel soul-collector Thresh.</string>
+
+    <!-- Neeko -->
+    <string name="neeko_name">Neeko</string>
+    <string name="neeko_title">The Curious Chameleon</string>
+    <string name="neeko_description">Hailing from a long-lost tribe of vastaya, Neeko can blend into any crowd by borrowing the appearances of others, even absorbing something of their emotional state to tell friend from foe in a heartbeat. No one is ever sure where—or who—Neeko might be.</string>
+
+    <!-- Leona -->
+    <string name="leona_name">Leona</string>
+    <string name="leona_title">The Radiant Dawn</string>
+    <string name="leona_description">Imbued with the fire of the sun, Leona is a holy warrior of the Solari who defends Mount Targon with her Zenith Blade and the Shield of Daybreak. Her skin shimmers with starfire, and her eyes burn with the power of the celestial Aspect within her.</string>
+
+    <!-- Irelia -->
+    <string name="irelia_name">Irelia</string>
+    <string name="irelia_title">The Blade Dancer</string>
+    <string name="irelia_description">The Noxian occupation of Ionia produced many heroes, none more unlikely than young Irelia of Navori. Trained in the ancient dances of her province, she adapted her art for war, using the graceful and carefully practiced movements to levitate a host of deadly blades.</string>
+
+    <!-- Fizz -->
+    <string name="fizz_name">Fizz</string>
+    <string name="fizz_title">The Tidal Trickster</string>
+    <string name="fizz_description">Fizz is an amphibious yordle, who dwells among the reefs surrounding Bilgewater. He often retrieves and returns the tithes cast into the sea by superstitious captains, but even the saltiest of sailors know better than to cross him.</string>
+
+    <!-- Diana -->
+    <string name="diana_name">Diana</string>
+    <string name="diana_title">Scorn of the Moon</string>
+    <string name="diana_description">Bearing her crescent moonblade, Diana fights as a warrior of the Lunari, a faith all but vanished from the lands around Mount Targon. Clad in shimmering armor the color of winter snow at night, she is a living embodiment of the silver moon’s power.</string>
+
+    <!-- Annie -->
+    <string name="annie_name">Annie</string>
+    <string name="annie_title">The Dark Child</string>
+    <string name="annie_description">Dangerous, yet disarmingly precocious, Annie is a child mage with immense pyromantic power. Even in the shadows of the mountains of Noxus, she is a magical outlier. Her natural affinity for fire manifested early in life through unpredictable, emotional outbursts.</string>
+</resources>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Ziggs -->
+    <string name="ziggs_name">Ziggs</string>
+    <string name="ziggs_title">El Experto en Hexplosivos</string>
+    <string name="ziggs_description">Con un amor por las bombas grandes y las mechas cortas, Ziggs es una fuerza de la naturaleza yordle. Como asistente de un inventor en Piltóver, se aburría de su vida predecible y se hizo amigo de una bombardera demente de pelo azul llamada Jinx.</string>
+
+    <!-- Vi -->
+    <string name="vi_name">Vi</string>
+    <string name="vi_title">La Vigilante de Piltóver</string>
+    <string name="vi_description">Vi, una antigua criminal de las despiadadas calles de Zaun, es una mujer exaltada, impulsiva y temible con un respeto muy escaso por las figuras de autoridad. Al crecer prácticamente sola, Vi desarrolló un instinto de supervivencia muy agudo y un humor mordaz.</string>
+
+    <!-- Teemo -->
+    <string name="teemo_name">Teemo</string>
+    <string name="teemo_title">El Explorador Veloz</string>
+    <string name="teemo_description">Sin dejarse intimidar ni por los obstáculos más peligrosos, Teemo explora el mundo con un entusiasmo sin límites y un espíritu alegre. Un yordle con un inquebrantable sentido de la moralidad, se enorgullece de seguir el Código de los Exploradores de Bandle.</string>
+
+    <!-- Taric -->
+    <string name="taric_name">Taric</string>
+    <string name="taric_title">El Escudo de Valoran</string>
+    <string name="taric_description">Taric es el Aspecto del Protector y ostenta un poder increíble como guardián de la vida, el amor y la belleza de Runaterra. Avergonzado por un abandono de su deber, Taric escaló el Monte Targon en busca de redención, solo para descubrir una llamada superior.</string>
+
+    <!-- Senna -->
+    <string name="senna_name">Senna</string>
+    <string name="senna_title">La Redentora</string>
+    <string name="senna_description">Maldita desde la infancia por la Niebla Negra sobrenatural, Senna se unió a una orden sagrada conocida como los Centinelas de la Luz y luchó ferozmente. Pero su esposo Lucian no pudo salvarla del cruel recolector de almas, Thresh.</string>
+
+    <!-- Neeko -->
+    <string name="neeko_name">Neeko</string>
+    <string name="neeko_title">La Camaleona Curiosa</string>
+    <string name="neeko_description">Proveniente de una tribu vastaya perdida, Neeko puede mezclarse en cualquier multitud tomando la apariencia de otros, absorbiendo incluso parte de su estado emocional para distinguir amigos de enemigos en un instante. Nadie está seguro de dónde —o quién— podría ser Neeko.</string>
+
+    <!-- Leona -->
+    <string name="leona_name">Leona</string>
+    <string name="leona_title">El Amanecer Radiante</string>
+    <string name="leona_description">Imbuida con el fuego del sol, Leona es una guerrera sagrada de los Solari que defiende el Monte Targon con su Hoja del Cénit y el Escudo del Amanecer. Su piel brilla con fuego estelar y sus ojos arden con el poder del Aspecto celestial en su interior.</string>
+
+    <!-- Irelia -->
+    <string name="irelia_name">Irelia</string>
+    <string name="irelia_title">La Bailarina de las Cuchillas</string>
+    <string name="irelia_description">La ocupación noxiana de Jonia produjo muchos héroes, pero ninguno tan improbable como la joven Irelia de Navori. Entrenada en las danzas ancestrales de su provincia, adaptó su arte para la guerra, usando movimientos gráciles y cuidadosamente practicados para levitar un ejército de cuchillas mortales.</string>
+
+    <!-- Fizz -->
+    <string name="fizz_name">Fizz</string>
+    <string name="fizz_title">El Gamberro de las Mareas</string>
+    <string name="fizz_description">Fizz es un yordle anfibio que habita entre los arrecifes que rodean Aguas Estancadas. A menudo recupera y devuelve los diezmos arrojados al mar por capitanes supersticiososos, pero hasta los marineros más curtidos saben que no deben cruzarse en su camino.</string>
+
+    <!-- Diana -->
+    <string name="diana_name">Diana</string>
+    <string name="diana_title">El Desdén de la Luna</string>
+    <string name="diana_description">Portando su espada de luna creciente, Diana lucha como una guerrera de los Lunari, una fe casi desaparecida de las tierras alrededor del Monte Targon. Vestida con una armadura reluciente del color de la nieve invernal en la noche, es la encarnación viviente del poder de la luna plateada.</string>
+
+    <!-- Annie -->
+    <string name="annie_name">Annie</string>
+    <string name="annie_title">La Hija de la Oscuridad</string>
+    <string name="annie_description">Peligrosa, pero encantadoramente precoz, Annie es una niña maga con un inmenso poder piromántico. Incluso en las sombras de las montañas de Noxus, es una anomalía mágica. Su afinidad natural por el fuego se manifestó temprano en su vida a través de arrebatos emocionales impredecibles.</string>
+</resources>
